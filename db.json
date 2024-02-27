@@ -1,22 +1,52 @@
 {
   "blogs": [
     {
-      "id": "7909",
-      "title": "Broken Dreams",
-      "body": "Sometimes, the dreams that break us are the ones we held onto the tightest.",
-      "author": "Unknown"
+    "id": "7909",
+    "title": "Broken Dreams",
+    "body": "Sometimes, the dreams that break us are the ones we held onto the tightest.",
+    "author": "Author One"
     },
     {
-      "id": "7910",
-      "title": "Fragments of Love",
-      "body": "In the end, we were just fragments of a love story that never got a chance to be written.",
-      "author": "Anonymous"
+    "id": "7910",
+    "title": "Echoes of Solitude",
+    "body": "In solitude, we find echoes of our true selves resonating through the quiet.",
+    "author": "Author Two"
     },
     {
-      "id": "7911",
-      "title": "Tears and Silence",
-      "body": "The loudest cries are often heard in the silence of our hearts.",
-      "author": "Unknown"
+    "id": "7911",
+    "title": "The Dance of Shadows",
+    "body": "Shadows sway to a rhythm unseen, dancing their silent dance across the walls of our minds.",
+    "author": "Author One"
+    },
+    {
+    "id": "7912",
+    "title": "Whispers in the Wind",
+    "body": "Listen closely, for in the whispers of the wind, secrets of the universe are revealed.",
+    "author": "Author Two"
+    },
+    {
+    "id": "7913",
+    "title": "Embers of Hope",
+    "body": "In the darkest nights, even the faintest embers of hope can light the way forward.",
+    "author": "Author One"
+    },
+    {
+    "id": "7914",
+    "title": "Stardust Melodies",
+    "body": "We are but stardust, our souls humming melodies written in the language of the cosmos.",
+    "author": "Author Two"
+    },
+    {
+    "id": "7915",
+    "title": "Echoes of Eternity",
+    "body": "In the echoes of eternity, the footsteps of our legacy resound through the corridors of time.",
+    "author": "Author Two"
+    },
+    {
+    "id": "7916",
+    "title": "Serenade of Silence",
+    "body": "Amidst the chaos, the serenade of silence offers solace to weary souls seeking refuge.",
+    "author": "Author One"
     }
-  ]
-}
+    ]
+    }
